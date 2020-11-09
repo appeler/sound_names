@@ -1,4 +1,4 @@
-## Sound Names: Using the Sequence of Sounds to Classify Names
+## Sound Names: Classify Names Using the Sequence of Sounds 
 
 Building on prior [work](https://github.com/appeler/ethnicolr) that classifies names based on the sequence of characters, we create a model that capitalizes on sequence of sounds to classify names.   
 
